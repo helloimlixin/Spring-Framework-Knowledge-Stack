@@ -47,3 +47,22 @@ To understand how helpful this feature is for development, let’s take a look a
 4. Deploy application & start the web server
 
 ![image-20200215140443049](image-20200215140443049.png)
+
+For Spring Boot, it “just runs”:
+
+1. Package the application
+2. Run the application
+
+![image-20200215143040555](image-20200215143040555.png)
+
+## Spring Boot Is Opinionated
+
+As per the documentation:
+
+> “Takes an opinionated view of building production-ready Spring applications.”
+
+When building Java web applications, you might encounter tons of choices like *library choices*, *config choices*, *tooling choices*, etc. Spring Boot removes this burden by:
+
+> … favors convention over configuration and is designed to get up and running as quickly as possible.”
+
+Like what http://start.spring.io/ can do.
