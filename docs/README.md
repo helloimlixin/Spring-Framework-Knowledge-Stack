@@ -1,5 +1,3 @@
-![Image result for Spring Framework logo](006054dab5d5c96438879d5c32837725.png)
-
 This project contains a comprehensive knowledge stack base for Spring Framework. It covers topics including:
 
 ## The Big Picture
