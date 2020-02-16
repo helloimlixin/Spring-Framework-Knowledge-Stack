@@ -2,12 +2,12 @@ This project contains a comprehensive knowledge stack base for Spring Framework.
 
 ## The Big Picture
 
-### <a style="text-decoration:none" href="https://helloimlixin.github.io/SpringFrameworkKnowledgeStack/SpringFrameworkOverview.html">Spring Framework Overview</a>
+### <a style="text-decoration:none" href="https://helloimlixin.github.io/Spring-Framework-Knowledge-Stack/SpringFrameworkOverview.html">Spring Framework Overview</a>
 
 - Introduction
 - The Spring Family
 
-### <a style="text-decoration:none" href="https://helloimlixin.github.io/SpringFrameworkKnowledgeStack/UnderstandingSpringBoot.html">Understanding Spring Boot</a>
+### <a style="text-decoration:none" href="https://helloimlixin.github.io/Spring-Framework-Knowledge-Stack/UnderstandingSpringBoot.html">Understanding Spring Boot</a>
 
 - Introduction
 - Key Features
